@@ -5,7 +5,7 @@ headers = []
 redirects = []
 
 [build]
-publish = "/opt/build/repo/public"
+publish = "."
 publishOrigin = "config"
 functions = "/opt/build/repo/netlify/functions"
 
